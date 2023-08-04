@@ -8,3 +8,5 @@
 Tienle171197/Tienle171197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Add the following message to your GitHub bio:
+Check out my address in Scopescan: 0x93fd74e93814ed5eab944915206cb0820316fa3a
